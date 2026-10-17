@@ -501,10 +501,11 @@ To cite ALFlowLyzer in your work and understand it completely, find the followin
 
 * [**Arash Habibi Lashkari:**](http://ahlashkari.com/index.asp) Founder and Supervisor
 
-* [**Moein Shafi:**](https://github.com/moein-shafi) Graduate Student, Researcher and Developer - York University (2 years, 2022–2024)
+* [**Moein Shafi:**](https://github.com/moein-shafi) Graduate Student - York University (2 years, 2022–2024)
 
-* [**Hardhik Mohanty:**](https://github.com/hardhik-99) Mitacs Globalink Research Intern, Researcher and Developer - York University (3 months, 2022)
+* [**Hardhik Mohanty:**](https://github.com/hardhik-99) Mitacs Globalink Research Intern - York University (3 months, 2022)
 
 
 ## Acknowledgment
-This project has been made possible through funding from the Natural Sciences and Engineering Research Council of Canada — NSERC (#RGPIN-2020-04701) and Canada Research Chair (Tier II) - (#CRC-2021-00340) to Arash Habibi Lashkari, and the Mitacs Globalink Research Internship (GRI) program.
+
+This project has been made possible through funding from the Natural Sciences and Engineering Research Council of Canada (NSERC, #RGPIN-2020-04701) and the Canada Research Chair (Tier II, #CRC-2021-00340) held by Arash Habibi Lashkari, and the Mitacs Globalink Research Internship (GRI) program.
